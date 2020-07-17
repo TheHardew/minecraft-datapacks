@@ -1,0 +1,1 @@
+scoreboard objectives add sinceRest minecraft.custom:minecraft.time_since_rest "Time Since Rest"
